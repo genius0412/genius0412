@@ -10,7 +10,7 @@ Hi, I am a student developer living in Seoul, South Korea.
 - 👯 I’m looking to collaborate nothing (yet)
 - 🤔 I’m looking for help with nothing (yet)
 - 💬 Ask me about anything!
-- 📫 How to reach me: [Gmail](genius0412.tech@gmail.com) [Naver](genius0412@naver.com)
+- 📫 How to reach me: genius0412.tech@gmail.com / genius0412@naver.com
 
 **Languages and Tools:**  
 
