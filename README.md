@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on KOI & NYPC
 - 🌱 I’m currently learning C, C++, JavaScript, HTML, CSS
 - 👯 I’m looking to collaborate nothing (yet)
-- 🤔 I’m looking for help with nothing (yet)
+- 🤔 I’m looking for help with node.js and hosting webpages
 - 💬 Ask me about anything!
 - 📫 How to reach me: genius0412.tech@gmail.com / genius0412@naver.com
 
