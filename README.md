@@ -1,6 +1,8 @@
 ### Hi there, I'm [genius0412!](https://github.com/genius0412) 👋
+
 <br />
 <br />
+
 **Hi, I am a student developer living in Seoul, South Korea.**
 
 - 🔭 I’m currently working on KOI & NYPC
@@ -9,8 +11,10 @@
 - 🤔 I’m looking for help with nothing (yet)
 - 💬 Ask me about anything!
 - 📫 How to reach me: genius0412.tech@gmail.com / genius0412@naver.com
+
 <br />
 <br />
+
 **Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
