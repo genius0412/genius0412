@@ -6,7 +6,7 @@
 **Hi, I am a student developer living in Seoul, South Korea.**
 
 - 🔭 I’m currently working on KOI & NYPC
-- 🌱 I’m currently learning C, C++, JavaScript, HTML, CSS
+- 🌱 I’m currently learning C, C++, Python, JavaScript, HTML, CSS
 - 👯 I’m looking to collaborate nothing (yet)
 - 🤔 I’m looking for help with node.js and hosting webpages
 - 💬 Ask me about anything!
