@@ -3,7 +3,7 @@
 <br />
 <br />
 
-**Hi, I am a student developer living in Seoul, South Korea.**
+**Hi, I am a student developer living in South Korea.**
 
 - 🔭 I’m currently working on AI and React
 - 🌱 I’m currently learning C++, Javascript, React
