@@ -8,6 +8,7 @@ body{
     height: 970px;
     background: black;
     text-align: center;
+    margin-bottom: 3rem;
 }
 
 .profile{
@@ -16,4 +17,41 @@ body{
 
 .intro-text{
     color: white;
+}
+
+#skills{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 0 100%;
+    flex: 1 0 100%;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.skill{
+    width: 12%;
+    border: 1px solid black;
+    border-radius: 3rem;
+    list-style: none;
+    text-align: center;
+    margin: 0 auto;
+
+    font-size: 1.3rem;
+
+    padding: .5rem .5rem .5rem .5rem;
+}
+
+.skill,.skill:hover{
+    -webkit-transition:all .3s ease-in-out;
+    transition:all .3s ease-in-out
+}
+.skill:hover{
+    -webkit-box-shadow: 0 .5rem .5rem 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);
+    box-shadow: 0 .5rem .5rem 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19)
+}
+
+h2{
+    text-align: center;
 }
