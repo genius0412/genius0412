@@ -39,8 +39,9 @@ body{
     margin: 0 auto;
 
     font-size: 1.3rem;
+    
 
-    padding: .5rem .5rem .5rem .5rem;
+    padding: .5rem .5rem 3% .5rem;
 }
 
 .skill,.skill:hover{
@@ -50,6 +51,25 @@ body{
 .skill:hover{
     -webkit-box-shadow: 0 .5rem .5rem 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);
     box-shadow: 0 .5rem .5rem 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19)
+}
+
+.skill h2{
+    font-size: 1em;
+    padding-bottom: 7%;
+}
+
+.progress{
+    width: 80%;
+    height: 30%;
+    background: #BBBBBB;
+    border-radius: 3rem;
+    margin: 0 auto;
+}
+
+.progress-bar{
+    height: 100%;
+    background: limegreen;
+    border-radius: 3rem;
 }
 
 h2{
