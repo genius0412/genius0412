@@ -31,31 +31,36 @@ body{
 }
 
 .skill{
-    width: 12%;
-    border: 1px solid black;
-    border-radius: 3rem;
-    list-style: none;
-    text-align: center;
-    margin: 0 auto;
+    position: relative;
 
+    display: flex;
+    flex-direction: column;
+    background: rgba(0,0,0,.012);
+    flex: 1 1 auto;
+    /*border: 1px solid rgba(0,0,0,.9);*/
+    border-radius: 1.7rem;
+
+    box-shadow: 0 .2rem .2rem 0 rgba(0,0,0,.2);
+    justify-content: space-evenly;
+
+    padding-bottom: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.skill-title{
     font-size: 1.3rem;
-    
-
-    padding: .5rem .5rem 3% .5rem;
+    padding-bottom: .7rem;
 }
 
-.skill,.skill:hover{
-    -webkit-transition:all .3s ease-in-out;
-    transition:all .3s ease-in-out
+.hover-shadow,.hover-shadow:hover{
+    -webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out
 }
-.skill:hover{
+
+.hover-shadow:hover{
     -webkit-box-shadow: 0 .5rem .5rem 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);
     box-shadow: 0 .5rem .5rem 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19)
-}
-
-.skill h2{
-    font-size: 1em;
-    padding-bottom: 7%;
 }
 
 .progress{
@@ -70,8 +75,22 @@ body{
     height: 100%;
     background: limegreen;
     border-radius: 3rem;
+    font-weight: 550;
+    color: #FFFFFF
 }
 
-h2{
+.bg-success{
+    background: #3EC93E;
+}
+
+.bg-warning{
+    background: #FFB400;
+}
+
+.bg-error{
+    background: #FF4040;
+}
+
+.text-center{
     text-align: center;
 }
