@@ -33,21 +33,28 @@ body{
 }
 
 .skill{
-    position: relative;
+    border: 2px solid #BBBBBB;
+    border-radius: 1000rem;
+    font-weight: 500;
+    width: max-content;
+    height: max-content;
+    padding: .3rem .7rem .3rem .7rem;
 
     display: flex;
-    flex-direction: column;
-    background: rgba(0,0,0,.012);
-    flex: 1 1 auto;
-    /*border: 1px solid rgba(0,0,0,.9);*/
-    border-radius: 1.7rem;
+    align-items: center;
+    justify-content: center;
+    margin: 0 .3rem 0 .3rem;
+    cursor: pointer;
+}
 
-    box-shadow: 0 .2rem .2rem 0 rgba(0,0,0,.2);
-    justify-content: space-evenly;
+.skill, .skill:hover{
+    -webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out
+}
 
-    padding-bottom: 1rem;
-    margin-left: 3rem;
-    margin-right: 3rem;
+.skill:hover{
+    -webkit-box-shadow: 0 .2rem .2rem 0 rgba(0,0,0,.2),0 2px 6px 0 rgba(0,0,0,.19);
+    box-shadow: 0 .2rem .2rem 0 rgba(0,0,0,.2),0 2px 6px 0 rgba(0,0,0,.19)
 }
 
 .skill-title{
