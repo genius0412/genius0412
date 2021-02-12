@@ -5,8 +5,8 @@
 
 **Hi, I am a student developer living in South Korea.**
 
-- 🔭 I’m currently working on AI and React
-- 🌱 I’m currently learning C++, Javascript, React
+- 🔭 I’m currently working on apis
+- 🌱 I’m currently learning C++, JavaScript, React
 - 👯 I’m looking to collaborate nothing (yet)
 - 🤔 I’m looking for help with node.js and hosting webpages
 - 💬 Ask me about anything!
