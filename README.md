@@ -5,10 +5,10 @@
 
 **Hi, I am a student developer living in South Korea.**
 
-- 🔭 I’m currently working on apis
-- 🌱 I’m currently learning C++, JavaScript, React
+- 🔭 I’m currently working on JavaScript
+- 🌱 I’m currently learning C++, JavaScript, Python
 - 👯 I’m looking to collaborate nothing (yet)
-- 🤔 I’m looking for help with node.js and hosting webpages
+- 🤔 I’m looking for help with C++
 - 💬 Ask me about anything!
 - 📫 How to reach me: genius0412.tech@gmail.com / genius0412@naver.com
 
