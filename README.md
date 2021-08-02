@@ -26,3 +26,5 @@
 [![Genius0412's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=genius0412&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/genius0412)
 
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genius0412&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
