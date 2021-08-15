@@ -3,14 +3,14 @@
 <br />
 <br />
 
-**Hi, I am a student developer living in South Korea.**
+**Hi, I am a student developer living in Massachusetts.**
 
-- 🔭 I’m currently working on JavaScript
+- 🔭 I’m currently working on PS (Problem Solving)
 - 🌱 I’m currently learning C++, JavaScript, Python
 - 👯 I’m looking to collaborate nothing (yet)
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about anything!
-- 📫 How to reach me: genius0412.tech@gmail.com / genius0412@naver.com
+- 📫 How to reach me: genius0412.tech@gmail.com
 
 <br />
 <br />
