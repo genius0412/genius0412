@@ -5,7 +5,7 @@
 
 **Hi, I am a student developer living in Massachusetts.**
 
-- 🔭 I’m currently working on PS (Problem Solving)
+- 🔭 I’m currently working on making websites about making websites.
 - 🌱 I’m currently learning C++, JavaScript, Python
 - 👯 I’m looking to collaborate nothing (yet)
 - 🤔 I’m looking for help with C++
