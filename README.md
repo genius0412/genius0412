@@ -3,12 +3,12 @@
 <br />
 <br />
 
-**Hi, I am a student developer living in Massachusetts.**
+**Hi, I am a human being living in Massachusetts.**
 
-- 🔭 I’m currently working on making websites about making websites.
+- 🔭 I’m currently working on working on working on working on working on working.
 - 🌱 I’m currently learning C++, JavaScript, Python
-- 👯 I’m looking to collaborate nothing (yet)
-- 🤔 I’m looking for help with C++
+- 👯 I’m looking to collaborate on something
+- 🤔 I’m looking for help with USACO
 - 💬 Ask me about anything!
 - 📫 How to reach me: genius0412.tech@gmail.com
 
